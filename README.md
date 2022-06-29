@@ -1,0 +1,2 @@
+# .github
+OSMANiC Team .github
