@@ -1,5 +1,5 @@
 ## Welcome to the OSMANiC OSP Team GitHub!
-<a href="https://home.osmanic.co">OSMANiC Website</a>
+<a href="https://osmanic.net">OSMANiC Website</a>
 
 <b>Disclaimer: ❗Projects made here are open source, however they may use/contain proprietary code/scripts❗</b>
 
